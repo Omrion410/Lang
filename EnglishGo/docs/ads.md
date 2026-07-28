@@ -149,6 +149,27 @@ Future advertisement features:
 * Seasonal Campaigns
 
 ---
+# Advertisement Content Policy
+
+EnglishGo is committed to providing a safe, educational, respectful, and family-friendly learning environment.
+
+All advertisements displayed within the application should align with the application's educational mission and user experience.
+
+The application should avoid displaying advertisements that include or promote:
+
+* Pornographic or sexually explicit content.
+* Nudity or adult-oriented material.
+* Excessively violent or disturbing content.
+* Illegal products or services.
+* Fraudulent or misleading advertisements.
+* Gambling advertisements where legally restricted.
+* Hate speech, discrimination, or harassment.
+* Content that is inappropriate for a general audience.
+
+Whenever supported by the advertising provider, the highest available family-safe content filters should be enabled.
+
+EnglishGo reserves the right to block or report advertisements that violate these principles in order to maintain a safe learning environment for all users.
+
 
 # Design Principles
 
